@@ -10,7 +10,6 @@
 <h3 align="center">A passionate Software Engineer </h3>
 
 - 📫 Reach me on **Mazenessam2011@outlook.com**
-- 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yinRAwJh79Zt4rBNA025W_Q1LkO72-UC/view?usp=sharing](https://drive.google.com/file/d/1yinRAwJh79Zt4rBNA025W_Q1LkO72-UC/view?usp=sharing" rel="noreferrer"> CV </a>
 
 
