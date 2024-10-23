@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mazen Essam</h1>
+<h1 align="center">Hi 👋,Hello</h1>
 
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="500" height="400" />
+  <h3 align="center">My name is Mazen Essam, and I'm a software engineering student from Cairo, Egypt.
+I'm passionate about coding and constantly striving to improve my skills. </h3>
 <a href="https://linkedin.com/in/mazen-essam-eldin-a11118231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-essam-eldin-a11118231" height="30" width="40" /></a>
 <a href="https://fb.com/mazen.essam.eldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazen.essam.eldin" height="30" width="40" /></a>
 <a href="https://instagram.com/mazenessam02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazenessam02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mazenessam2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mazenessam2011" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate Software Engineer </h3>
+
 
 - 📫 Reach me on **Mazenessam2011@outlook.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yinRAwJh79Zt4rBNA025W_Q1LkO72-UC/view?usp=sharing](https://drive.google.com/file/d/1yinRAwJh79Zt4rBNA025W_Q1LkO72-UC/view?usp=sharing" rel="noreferrer"> CV </a>
