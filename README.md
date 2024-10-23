@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" height="300" />
-  <h3 align="center">My name is Mazen Essam, and I'm a software engineering student from Cairo, Egypt.
-I'm passionate about coding and constantly striving to improve my skills. </h3>
+  <h4 align="center">My name is Mazen Essam, and I'm a software engineering student from Cairo, Egypt.
+I'm passionate about coding and constantly striving to improve my skills. </h4>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/mazen-essam-eldin-a11118231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-essam-eldin-a11118231" height="30" width="40" /></a>
