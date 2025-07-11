@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" height="300" />
-  <h4 align="center">My name is Mazen Essam, and I'm a software engineering student from Cairo, Egypt.
+  <h4 align="center">My name is Mazen Essam, and I'm a software engineer from Cairo, Egypt.
 I'm passionate about coding and constantly striving to improve my skills. </h4>
 </p>
 <p align="center">
