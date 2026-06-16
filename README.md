@@ -1,5 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=MazenEssam02&label=Profile%20Views&color=blue&style=flat-square" />
 <h1 align="center">Hello 👋</h1>
-
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" width="400" height="300" />
   <h4 align="center">My name is Mazen Essam, and I'm a software engineer from Cairo, Egypt.
@@ -17,7 +17,27 @@ I'm passionate about coding and constantly striving to improve my skills. </h4>
 - 📫 Reach me on **Mazenessam2011@outlook.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mlHiPnxr-JE5uhKBY2k9tbhYuFSO07Il/view" rel="noreferrer"> CV </a>
 
+<h1 >GitHub Stats</h1>
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
 
+  <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=MazenEssam02&show_icons=true&theme=dark"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazenEssam02&layout=compact&theme=dark"
+    />
+
+  </div>
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=MazenEssam02&theme=dark"
+  />
+
+</div>
 
 <h1>Coding</h1>
 
